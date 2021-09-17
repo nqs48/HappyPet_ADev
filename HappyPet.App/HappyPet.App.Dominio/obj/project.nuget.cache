@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7xtVFy4o6uYFU3i6D8aIWW+6oxmcNOVxZyfv0FRJVvPksW/Z4vZp6QRDDT6YQxJlZJ72fmMERisLcmY3FUklFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chuch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
