@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9Yjxi9T37fhZWr2zLIzby3BI36wY3Ros4XoVmVGbXu7kl9WCuR1ucrhncgyWlR0eOtOJ9jD12aWJnqgT8Kc5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zdani\\HappyPed_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zdani\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zdani\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
