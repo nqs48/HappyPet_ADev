@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7xtVFy4o6uYFU3i6D8aIWW+6oxmcNOVxZyfv0FRJVvPksW/Z4vZp6QRDDT6YQxJlZJ72fmMERisLcmY3FUklFA==",
+  "dgSpecHash": "DVV2RpdQMA5U3MDTl9v9XvLStdTxiHkVnuhqPE/By9u4I052idv9vK9a1CBN8qzmNzlLrwYaZzWVhNLc2VGBvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chuch\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\chuch\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\nqs48\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nqs48\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

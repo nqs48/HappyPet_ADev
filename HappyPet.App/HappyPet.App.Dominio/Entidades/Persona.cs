@@ -1,5 +1,4 @@
 using System;
-
 namespace HappyPet.App.Dominio
 {
     public class Persona{

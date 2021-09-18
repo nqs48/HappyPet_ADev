@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {}
+    "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
+    "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
         "projectName": "HappyPet.App.Dominio",
-        "projectPath": "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\chuch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chuch\\Documents\\HappyPet_DevWorld\\HappyPet_DevWorld\\HappyPet.App\\HappyPet.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\nqs48\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chuch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nqs48\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
