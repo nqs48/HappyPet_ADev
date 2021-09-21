@@ -1,5 +1,11 @@
-﻿using System;
+﻿using System.Runtime.ExceptionServices;
+using System.ComponentModel;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+
+using System;
 using HappyPet.App.Dominio;
+using HappyPet.App.Persistencia;
 
 namespace HappyPet.App.Consola
 {

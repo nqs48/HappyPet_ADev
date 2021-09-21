@@ -1511,7 +1511,7 @@
       },
       "HappyPet.App.Dominio/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
+        "framework": ".NETStandard,Version=v2.1",
         "compile": {
           "bin/placeholder/HappyPet.App.Dominio.dll": {}
         },
@@ -5791,6 +5791,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "HappyPet.App.Dominio >= 1.0.0",
       "HappyPet.App.Persistencia >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0"
     ]
@@ -5819,6 +5820,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj"
+            },
             "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj": {
               "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj"
             }

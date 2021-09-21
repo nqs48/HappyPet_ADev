@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVV2RpdQMA5U3MDTl9v9XvLStdTxiHkVnuhqPE/By9u4I052idv9vK9a1CBN8qzmNzlLrwYaZzWVhNLc2VGBvw==",
+  "dgSpecHash": "V7FxKB7LUOFo/qSj1Oc9i0tR34x5O6i6NCEVvzqnZExAje6pGryznLSBojfd7/t/IuwA+vSbr7O7QfzzUSUxdg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\nqs48\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\nqs48\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
