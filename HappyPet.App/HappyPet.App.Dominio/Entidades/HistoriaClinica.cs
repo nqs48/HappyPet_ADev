@@ -2,14 +2,14 @@ using System;
 namespace HappyPet.App.Dominio
 {
     public class HistoriaClinica{
-        private int ID {get;set;}
-        private double Peso {get;set;}
-        private double temperatura {get;set;}
-        private double FrecuenciaRespiratoria {get;set;}
-        private double FrecuenciaCardiaca {get;set;}
-        private string EstadoDeSalud {get;set;}
-        private Mascota Mascota{get;set;}
-        private Visita Visita{get;set;}
+        public int ID {get;set;}
+        public double Peso {get;set;}
+        public double temperatura {get;set;}
+        public double FrecuenciaRespiratoria {get;set;}
+        public double FrecuenciaCardiaca {get;set;}
+        public string EstadoDeSalud {get;set;}
+        public Mascota Mascota{get;set;}
+        public Visita Visita{get;set;}
 
     }
 }

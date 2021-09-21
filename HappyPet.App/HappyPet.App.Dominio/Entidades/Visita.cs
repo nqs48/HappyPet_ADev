@@ -3,10 +3,10 @@ namespace HappyPet.App.Dominio
 {
     public class Visita{
 
-        private DateTime FechaDeVisita {get;set;}
-        private DateTime HoraDeVisita {get;set;}
-        private Veterinario Veterinario {get;set;}
-        private Mascota Mascota {get; set;}
+        public DateTime FechaDeVisita {get;set;}
+        public DateTime HoraDeVisita {get;set;}
+        public Veterinario Veterinario {get;set;}
+        public Mascota Mascota {get; set;}
     
     }
 }

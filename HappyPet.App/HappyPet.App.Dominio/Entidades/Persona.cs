@@ -2,11 +2,11 @@ using System;
 namespace HappyPet.App.Dominio
 {
     public class Persona{
-        private int ID{set;get;}
-        private string Nombres {get;set;}
-        private string Apellidos {get;set;}
-        private string DocumentoIdentidad {get;set;}
-        private string Telefono {get;set;}
+        public int ID{set;get;}
+        public string Nombres {get;set;}
+        public string Apellidos {get;set;}
+        public string DocumentoIdentidad {get;set;}
+        public string Telefono {get;set;}
 
     }
 }

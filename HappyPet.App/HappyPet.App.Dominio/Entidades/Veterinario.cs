@@ -3,7 +3,7 @@ namespace HappyPet.App.Dominio
 {
     public class Veterinario : Persona
     {
-        private int TarjetaProfesional {get; set;}
+        public int TarjetaProfesional {get; set;}
     
     }
 }
