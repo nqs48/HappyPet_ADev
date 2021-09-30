@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CbPDyfTFZPOEw46aEJndZiL4dGTKyQqUEcamcqqs65fLSWs8wBaboiZ/WK4eMBmm4N/RPIPtn9D/JLR0fQQDMA==",
+  "dgSpecHash": "futGfcwogguaPU+mii9xyAiSy0BeQHA5Hr4Rc4xTX+liSTGhdHIbN6stmbksRwSAXcKLymCasjGh7IlDnRAzRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nqs48\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nqs48\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

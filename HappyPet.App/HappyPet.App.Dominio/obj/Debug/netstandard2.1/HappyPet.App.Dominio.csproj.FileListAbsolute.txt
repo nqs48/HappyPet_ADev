@@ -7,3 +7,21 @@ C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyP
 C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.dll
 C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.deps.json
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.dll
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.csprojAssemblyReference.cache
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.AssemblyInfo.cs
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.dll
+C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.deps.json
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.dll
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\bin\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.csprojAssemblyReference.cache
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.AssemblyInfo.cs
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.dll
+C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Dominio\obj\Debug\netstandard2.1\HappyPet.App.Dominio.pdb

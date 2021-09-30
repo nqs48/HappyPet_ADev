@@ -9,7 +9,13 @@ namespace HappyPet.App.Persistencia.AppRepositorios
 {
     public class AppContext : DbContext
     {
-        public DbSet<Persona> Personas{get;set;}
+        public DbSet<Cliente> Clientes{get;set;}
+        public DbSet<HistoriaClinica> HistoriasClinicas{get;set;}
+        public DbSet<Mascota> Mascotas{get;set;}
+        public DbSet<Veterinario> Veterinarios{get;set;}
+        public DbSet<Visita> Visitas{get;set;}
+
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) 
         {

@@ -5802,11 +5802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
       "projectName": "HappyPet.App.Consola",
-      "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
+      "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Consola\\HappyPet.App.Consola.csproj",
       "packagesPath": "C:\\Users\\nqs48\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Consola\\obj\\",
+      "outputPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nqs48\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5820,11 +5820,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj"
+            "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj"
             },
-            "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\MisionTic 2022\\C3_Desarrollo de Software\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj"
+            "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj"
             }
           }
         }
