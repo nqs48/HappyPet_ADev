@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zsO899cZqsAI/1J5XKscwzCT8ouBErcvb77ZUMePWuswIHO3NPht2Fo0XrpDem8qU0u06Kya54PjEvh4oTlKdw==",
+  "dgSpecHash": "iaEYpk6aEXysD8wQ8YJkSjs+KHopQIegEl16SG04q4jSJI5Xat8eLPEGf+Rqn0NQyM6r/fUfYtkb9GliL+2KCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nqs48\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

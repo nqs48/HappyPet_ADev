@@ -1,0 +1,103 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Clientes.Editar.EditarClienteModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+
+    .section-form{
+        display: flex;
+        justify-content: center;
+        margin:1rem ;
+        padding: 1rem;
+    }
+
+    
+    .form-form{
+        width: 35%;
+        background-color: aliceblue;
+        border-radius: 1rem;
+        padding: 1.5rem;
+
+    }
+
+    .boton-form{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .container-buttons{   
+        width: auto;
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+    .boton-form button:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .boton-form button:active{
+        background-color: black !important;
+    }
+
+
+</style>
+
+
+<main>
+    <h1 class="main-title">Editar Cliente<br>ID: @Model.Cliente.Id<br></h1>
+    <section class="section-form">
+        <form class="form-form" method="post">
+            <input type="hidden" asp-for="Cliente.Id" />
+            <div class="form-group">
+                <strong><label asp-for="Cliente.Nombres"></label></strong>
+                <input asp-for="Cliente.Nombres" class="form-control">
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Cliente.Apellidos"></label></strong>
+                <input asp-for="Cliente.Apellidos" class="form-control">
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Cliente.DocumentoIdentidad"></label></strong>
+                <input asp-for="Cliente.DocumentoIdentidad" class="form-control">
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Cliente.Telefono"></label></strong>
+                <input asp-for="Cliente.Telefono" class="form-control">
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Cliente.Direccion"></label></strong>
+                <input asp-for="Cliente.Direccion" class="form-control">
+            </div>
+            <div class="boton-form">
+                <button type="submit" class="btn btn-primary">Guardar</button><br>
+             </div> 
+            
+        </form>
+    </section>
+
+
+    <aside class="container-buttons">
+            <a class="btn table-btn" asp-page="../Cliente" asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-info-circle fa-lg"></i><br><b>Menu</b></a>
+            <a class="btn table-btn" asp-page="../Detalles/Detalles" asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-info-circle fa-lg"></i><br>Ver Cliente</a>
+            @* <a class="btn table-btn" asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-info-circle fa-lg"></i><br>Guardar</a> *@
+    </aside>
+</main>

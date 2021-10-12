@@ -1,0 +1,82 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Clientes.Detalles.DetallesModel
+@*
+
+*@
+
+<style>
+    
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+    
+    .main-section{
+        display: flex;
+        justify-content: center;
+    }
+
+    .container-information{
+        background-color: aliceblue;
+        padding: 1rem;
+        margin: 1rem;
+        text-align: center;
+        border-radius: 15px;
+
+    }
+</style>
+
+<main>
+    <h1 class="main-title">Detalle de Clientes</h1>
+
+    <section class="main-section">
+        <div class="container-information">
+            <strong>CLIENTE</strong><br><br>
+            <table class="table">
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Documento</th>
+                    <th>Telefono</th>
+                    <th>Direccion</th>
+                </tr>
+                <tr>
+                    <td>@Model.Cliente.Id</td>
+                    <td>@Model.Cliente.Nombres</td>
+                    <td>@Model.Cliente.Apellidos</td>
+                    <td>@Model.Cliente.DocumentoIdentidad</td>
+                    <td>@Model.Cliente.Telefono</td>
+                    <td>@Model.Cliente.Direccion</td>
+                    
+        
+                </tr>
+            </table>
+        </div> 
+    </section>
+
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Cliente"><i class="fas fa-info-circle fa-lg"></i><br><strong>Return</strong></a>
+        <a class="btn table-btn" asp-page="../Editar/EditarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Editar</a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Eliminar</a>
+    </aside>
+
+</main>
