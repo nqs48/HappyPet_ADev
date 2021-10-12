@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using HappyPet.App.Dominio;
 
-namespace HappyPet.App.Persistencia{
+namespace HappyPet.App.Persistencia.AppRepositorios{
 
     public interface IRepositorioCliente{
 
@@ -12,10 +12,10 @@ namespace HappyPet.App.Persistencia{
         Cliente AddCliente(Cliente cliente);
 
         //Actualizar Cliente
-        Cliente UpdateCliente(Cliente cliente, int idCliente);
+        Cliente UpdateCliente(Cliente clienteActualizado);
 
         //Eliminar Cliente
-        void DeleteCliente(int idCliente);
+        //void DeleteCliente(int idCliente);
 
         //Buscar Cliente
         Cliente GetCliente(int idCliente);

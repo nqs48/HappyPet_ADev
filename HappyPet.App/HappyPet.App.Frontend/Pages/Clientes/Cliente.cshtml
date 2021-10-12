@@ -1,0 +1,99 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Clientes.ClienteModel
+@{
+}
+<style>
+    
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+        
+    }
+
+    .container-buttons{ 
+          
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black;
+        color: gold;
+    }
+
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+
+    .position-table{
+        padding: 1rem;
+        padding-top: 3rem;
+    }
+
+    .container-buttons-bootom{
+        display: flex;
+        justify-content: center;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons-bootom a:hover{
+        background-color: black;
+        color: gold;
+    }
+    
+    .container-buttons-bootom a:active{
+        background-color: black !important;
+       
+    }
+
+
+</style>
+<main>
+    <h1 class="main-title">Menu Clientes</h1>
+ 
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="./Crear/CrearCliente">
+            <i class="fas fa-info-circle fa-lg"></i><br>Crear
+        </a>
+        <a class="btn table-btn" asp-page="./Buscar/BuscarCliente">
+            <i class="fas fa-info-circle fa-lg"></i><br>Buscar
+        </a>
+    </aside>
+    <section class="position-table">
+        <table class="table">
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Identificacion</th>
+                <th>&nbsp;&nbsp;Info.</th>
+            </tr>
+            @foreach (var item in Model.Clientes)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nombres</td>
+                    <td>@item.Apellidos</td>
+                    <td>@item.DocumentoIdentidad</td>
+                    <td>
+                        <a class="btn btm primary table-btn" asp-page="./Detalles/Detalles"  asp-route-idCliente="@item.Id"><i class="fas fa-info-circle fa-lg"></i> </a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </section>
+    <aside class="container-buttons-bootom">
+        <a class="btn  table-btn" asp-page="../index"><i class="fas fa-info-circle fa-lg" ></i><br><b>Home</b></a>
+    </aside>
+</main>
+
+
+
