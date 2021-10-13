@@ -34,7 +34,9 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Crear
             //METODO QUE DEVUELVE UN RESULTADO TIPO PAGINA
             public IActionResult OnGet()
             {   
-                  // Clientes= repositorioClientes.GetAllClientes();
+                if(!ModelState.IsValid){
+                return Page();
+                }
                 Cliente = new Cliente();
                 if(Cliente == null){
                     return RedirectToPage("../../Error");

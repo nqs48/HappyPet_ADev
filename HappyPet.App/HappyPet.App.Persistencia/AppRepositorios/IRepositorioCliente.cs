@@ -15,7 +15,7 @@ namespace HappyPet.App.Persistencia.AppRepositorios{
         Cliente UpdateCliente(Cliente clienteActualizado);
 
         //Eliminar Cliente
-        //void DeleteCliente(int idCliente);
+        Cliente DeleteCliente(int idCliente);
 
         //Buscar Cliente
         Cliente GetCliente(int idCliente);

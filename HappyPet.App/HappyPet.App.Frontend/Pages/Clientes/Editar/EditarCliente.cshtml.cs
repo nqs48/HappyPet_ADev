@@ -42,6 +42,9 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Editar
 
         public IActionResult OnPost()
         {   
+            if(!ModelState.IsValid){
+                return Page();
+            }
             if(Cliente.Id > 0){
                 Cliente= repositorioClientes.UpdateCliente(Cliente);
                 return Page();

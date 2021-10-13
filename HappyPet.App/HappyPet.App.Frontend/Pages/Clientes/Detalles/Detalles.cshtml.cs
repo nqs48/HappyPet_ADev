@@ -35,5 +35,7 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Detalles
                 return RedirectToPage("../../Error");
             }            
         }
+
+
     }
 }

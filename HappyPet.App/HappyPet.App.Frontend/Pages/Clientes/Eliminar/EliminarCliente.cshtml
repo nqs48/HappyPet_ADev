@@ -9,7 +9,32 @@
         background-color: black;
         border-radius: 15px;
         padding: 20px;
+    }    
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
     }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
 
 </style>
 <h1 class="main-title">Formulario Eliminar Cliente</h1>
+
+<p>El cliente ha sido eliminado</p>
+
+<aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Cliente"><i class="fas fa-info-circle fa-lg"></i><br><strong>Menu</strong></a>
+        @* <a class="btn table-btn" asp-page="../Editar/EditarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Editar</a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Eliminar</a> *@
+</aside>

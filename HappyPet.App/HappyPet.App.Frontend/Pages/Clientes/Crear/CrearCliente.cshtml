@@ -71,22 +71,28 @@
             <div class="form-group">
                 <strong><label asp-for="Cliente.Nombres"></label></strong>
                 <input asp-for="Cliente.Nombres" class="form-control">
+                <span class="text-danger" asp-validation-for="Cliente.Nombres"></span>
             </div>
             <div class="form-group">
                 <strong><label asp-for="Cliente.Apellidos"></label></strong>
                 <input asp-for="Cliente.Apellidos" class="form-control">
+                <span class="text-danger" asp-validation-for="Cliente.Apellidos"></span>
             </div>
             <div class="form-group">
                 <strong><label asp-for="Cliente.DocumentoIdentidad"></label></strong>
                 <input asp-for="Cliente.DocumentoIdentidad" class="form-control">
+                <span class="text-danger" asp-validation-for="Cliente.DocumentoIdentidad"></span>
             </div>
             <div class="form-group">
                 <strong><label asp-for="Cliente.Telefono"></label></strong>
                 <input asp-for="Cliente.Telefono" class="form-control">
+                <span class="text-danger" asp-validation-for="Cliente.Telefono"></span>
+                <span class="text-danger" asp-validation-for="Cliente.Telefono"></span>
             </div>
             <div class="form-group">
                 <strong><label asp-for="Cliente.Direccion"></label></strong>
                 <input asp-for="Cliente.Direccion" class="form-control">
+                <span class="text-danger" asp-validation-for="Cliente.Direccion"></span>
             </div>
             <div class="boton-form">
                 <button type="submit" class="btn btn-primary">Guardar</button><br>
@@ -98,7 +104,7 @@
 
     <aside class="container-buttons">
             <a class="btn table-btn" asp-page="../Cliente" ><i class="fas fa-info-circle fa-lg"></i><br><b>Menu</b></a>
-            @* <a class="btn table-btn" asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-info-circle fa-lg"></i><br>Guardar</a> *@
+            <a class="btn table-btn" asp-page="../Detalles/Detalles" asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-info-circle fa-lg"></i><br>Ver Cliente</a>
     </aside>
 
 </main>

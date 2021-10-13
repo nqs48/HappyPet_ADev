@@ -70,7 +70,17 @@ namespace HappyPet.App.Persistencia.AppRepositorios
             return nuevoCliente;
         }
 
-
+        //METODO PARA ELIMINAR CLIENTE
+        public Cliente DeleteCliente(int idCliente)
+        {
+            Cliente clienteEncontrado= listaClientes.FirstOrDefault(c =>c.Id==idCliente);
+            
+            if (clienteEncontrado!=null){
+                listaClientes.Remove(clienteEncontrado);
+                
+            }
+            return clienteEncontrado;  
+        }
 
 
         //private readonly AppContext _appContext;
