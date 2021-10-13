@@ -12,10 +12,28 @@ namespace HappyPet.App.Consola
 {
     class Program
     {
-        //public static IRepositorioCliente _repoCliente= new RepositorioCliente(new Persistencia.AppRepositorios.AppContext());
+        public static IRepositorioCliente _repoCliente= new RepositorioCliente(new Persistencia.AppRepositorios.AppContext());
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Veronica esta muy guapa!\n\n");
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             // Cliente c= new Cliente{Nombres= "Jesus",
             // Apellidos="Benitez",
@@ -50,8 +68,7 @@ namespace HappyPet.App.Consola
             //EliminarCliente(6);
 
 
-        }
-
+        
 
 
         //IMPLEMENTACION DE METODOS CRUD
@@ -109,5 +126,4 @@ namespace HappyPet.App.Consola
 
         // }
 
-    }
-}
+    

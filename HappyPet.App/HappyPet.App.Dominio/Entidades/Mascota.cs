@@ -7,6 +7,7 @@ namespace HappyPet.App.Dominio
         public string Especie {get;set;}
         public string Raza {get;set;}
         public Cliente Cliente{get;set;}
+        
         public Mascota(int id, string nombre, string especie, string raza, Cliente cliente){
             Id = id;
             Nombre = nombre;
@@ -15,9 +16,9 @@ namespace HappyPet.App.Dominio
             Cliente = cliente;  
         }
 
-    public Mascota()
-    {
-    }
+        public Mascota()
+        {
+        }
   }
 }
     

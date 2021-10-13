@@ -14,12 +14,12 @@ namespace HappyPet.App.Dominio
         
         public Cliente(int id, string nombres, string apellidos, string documentoIdentidad, string telefono ,string direccion) : base(id,nombres,apellidos,documentoIdentidad,telefono)
         {         
-            Direccion = direccion;
             this.Id=id;
             this.Nombres= nombres;
             this.Apellidos= apellidos;
             this.DocumentoIdentidad= documentoIdentidad;
-            this.Telefono= telefono;    
+            this.Telefono= telefono;
+            Direccion = direccion;    
        }
     }
 }
