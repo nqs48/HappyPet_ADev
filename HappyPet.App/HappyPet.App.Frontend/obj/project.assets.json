@@ -5741,19 +5741,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nqs48\\.nuget\\packages\\": {}
+    "/Users/europe/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Frontend\\HappyPet.App.Frontend.csproj",
+      "projectUniqueName": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/HappyPet.App.Frontend.csproj",
       "projectName": "HappyPet.App.Frontend",
-      "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Frontend\\HappyPet.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\nqs48\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Frontend\\obj\\",
+      "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/HappyPet.App.Frontend.csproj",
+      "packagesPath": "/Users/europe/.nuget/packages/",
+      "outputPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nqs48\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/europe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5764,11 +5764,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Dominio\\HappyPet.App.Dominio.csproj"
+            "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj": {
+              "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj"
             },
-            "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\nqs48\\Documents\\Estudio\\A Dev\\HappyPet_Personal\\HappyPet.App\\HappyPet.App.Persistencia\\HappyPet.App.Persistencia.csproj"
+            "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj": {
+              "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj"
             }
           }
         }
@@ -5799,7 +5799,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.412/RuntimeIdentifierGraph.json"
       }
     }
   }

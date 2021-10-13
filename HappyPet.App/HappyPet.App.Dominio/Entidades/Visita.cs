@@ -15,5 +15,9 @@ namespace HappyPet.App.Dominio
             Veterinario = veterinario;
             Mascota = mascota;
         }
+
+    public Visita()
+    {
     }
+  }
 }

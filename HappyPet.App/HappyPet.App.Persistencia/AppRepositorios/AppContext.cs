@@ -21,7 +21,8 @@ namespace HappyPet.App.Persistencia.AppRepositorios
         {
             if (!optionsBuilder.IsConfigured)
                 {
-                    optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog= HappyPetDataDB");
+                  optionsBuilder.UseSqlServer("Server=localhost,1433;Initial Catalog=HappyPetDataDB2;User ID=SA;Password=AmericanRocker");
+                  //optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog= HappyPetDataDB");
                 }
         }
      }

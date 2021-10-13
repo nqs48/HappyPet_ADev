@@ -5,7 +5,7 @@ namespace HappyPet.App.Dominio
     {
         public int TarjetaProfesional { get; set; }
 
-        public Veterinario(int id, string nombres, string apellidos, string documentoIdentidad, string telefono,int tarjetaProfesional):base(id,nombres,apellidos,documentoIdentidad,telefono)
+        public Veterinario(int id, string nombres, string apellidos, string documentoIdentidad, string telefono,int tarjetaProfesional) : base(id,nombres,apellidos,documentoIdentidad,telefono)
         {
             TarjetaProfesional = tarjetaProfesional;
             this.Id=id;

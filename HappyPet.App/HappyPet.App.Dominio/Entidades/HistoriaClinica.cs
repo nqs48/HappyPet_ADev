@@ -10,6 +10,7 @@ namespace HappyPet.App.Dominio
         public string EstadoDeSalud {get;set;}
         public Mascota Mascota{get;set;}
         public Visita Visita{get;set;}
+
         public HistoriaClinica(int id, double peso, double temperatura, double frecuenciaRespiratoria, double frecuenciaCardiaca, string estadoDeSalud, Mascota mascota, Visita visita) 
         {
             this.Id= id;
@@ -21,5 +22,9 @@ namespace HappyPet.App.Dominio
             this.Mascota= mascota;
             this.Visita= visita;    
         }
+
+    public HistoriaClinica()
+    {
     }
+  }
 }

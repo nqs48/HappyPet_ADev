@@ -28,6 +28,7 @@ namespace HappyPet.App.Frontend
         {
             services.AddRazorPages();
             services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
+            services.AddSingleton<HappyPet.App.Persistencia.AppRepositorios.AppContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

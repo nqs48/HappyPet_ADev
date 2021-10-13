@@ -1,36 +1,48 @@
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csprojAssemblyReference.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfoInputs.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.deps.json
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CopyComplete
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\C3_Desarrollo de Software\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.deps.json
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csprojAssemblyReference.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfoInputs.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CopyComplete
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\MisionTic 2022\HappyPet_DevWorld\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.deps.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\bin\Debug\netstandard2.1\HappyPet.App.Dominio.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csprojAssemblyReference.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfoInputs.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.AssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.csproj.CopyComplete
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Persistencia\obj\Debug\netstandard2.1\HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csprojAssemblyReference.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfoInputs.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.deps.json
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/C3_Desarrollo de Software/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.deps.json
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csprojAssemblyReference.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfoInputs.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/MisionTic 2022/HappyPet_DevWorld/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.deps.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csprojAssemblyReference.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfoInputs.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.deps.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csprojAssemblyReference.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfoInputs.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfo.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb

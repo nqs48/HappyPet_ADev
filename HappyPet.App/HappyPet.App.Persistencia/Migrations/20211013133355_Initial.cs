@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace HappyPet.App.Persistencia.Migrations
 {
-    public partial class Inicial : Migration
+    public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -13,11 +13,11 @@ namespace HappyPet.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Direccion = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Nombres = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DocumentoIdentidad = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Telefono = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    Direccion = table.Column<string>(type: "nvarchar(40)", maxLength: 40, nullable: false),
+                    Nombres = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
+                    Apellidos = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
+                    DocumentoIdentidad = table.Column<string>(type: "nvarchar(15)", maxLength: 15, nullable: false),
+                    Telefono = table.Column<string>(type: "nvarchar(15)", maxLength: 15, nullable: false)
                 },
                 constraints: table =>
                 {
@@ -31,10 +31,10 @@ namespace HappyPet.App.Persistencia.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     TarjetaProfesional = table.Column<int>(type: "int", nullable: false),
-                    Nombres = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Apellidos = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    DocumentoIdentidad = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Telefono = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                    Nombres = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
+                    Apellidos = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
+                    DocumentoIdentidad = table.Column<string>(type: "nvarchar(15)", maxLength: 15, nullable: false),
+                    Telefono = table.Column<string>(type: "nvarchar(15)", maxLength: 15, nullable: false)
                 },
                 constraints: table =>
                 {

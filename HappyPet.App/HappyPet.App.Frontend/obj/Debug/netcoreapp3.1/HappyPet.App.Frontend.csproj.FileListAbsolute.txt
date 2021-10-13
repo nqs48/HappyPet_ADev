@@ -1,87 +1,173 @@
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.exe
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.deps.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.runtimeconfig.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.runtimeconfig.dev.json
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.Views.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Frontend.Views.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.csprojAssemblyReference.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.AssemblyInfoInputs.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.AssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.csproj.CoreCompileInputs.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.RazorAssemblyInfo.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.RazorAssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.TagHelpers.input.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.TagHelpers.output.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.RazorCoreGenerate.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.RazorTargetAssemblyInfo.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.RazorTargetAssemblyInfo.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.Views.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HappyPet.App.Frontend.StaticWebAssets.Manifest.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HappyPet.App.Frontend.StaticWebAssets.xml
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.genruntimeconfig.cache
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\HappyPet.App.Frontend.csproj.CopyComplete
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Cliente.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Dominio.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Persistencia.dll
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Persistencia.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\bin\Debug\netcoreapp3.1\HappyPet.App.Dominio.pdb
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Crear\CrearCliente.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Buscar\BuscarCliente.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Editar\EditarCliente.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Eliminar\EliminarCliente.cshtml.g.cs
-C:\Users\nqs48\Documents\Estudio\A Dev\HappyPet_Personal\HappyPet.App\HappyPet.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Clientes\Detalles\Detalles.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.exe
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.deps.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.runtimeconfig.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.runtimeconfig.dev.json
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csprojAssemblyReference.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.AssemblyInfoInputs.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.AssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csproj.CoreCompileInputs.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorAssemblyInfo.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorAssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.TagHelpers.input.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.TagHelpers.output.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorCoreGenerate.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorTargetAssemblyInfo.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorTargetAssemblyInfo.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/HappyPet.App.Frontend.StaticWebAssets.Manifest.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/HappyPet.App.Frontend.StaticWebAssets.xml
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.genruntimeconfig.cache
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csproj.CopyComplete
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Cliente.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Dominio.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Persistencia.dll
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Persistencia.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Dominio.pdb
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Crear/CrearCliente.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Buscar/BuscarCliente.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Editar/EditarCliente.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Eliminar/EliminarCliente.cshtml.g.cs
+C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Detalles/Detalles.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.deps.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.runtimeconfig.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.runtimeconfig.dev.json
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Dominio.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Persistencia.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Persistencia.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/bin/Debug/netcoreapp3.1/HappyPet.App.Dominio.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csprojAssemblyReference.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.AssemblyInfoInputs.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.AssemblyInfo.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csproj.CoreCompileInputs.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorAssemblyInfo.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorAssemblyInfo.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.TagHelpers.input.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.TagHelpers.output.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorCoreGenerate.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Buscar/BuscarCliente.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Cliente.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Crear/CrearCliente.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Detalles/Detalles.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Editar/EditarCliente.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Clientes/Eliminar/EliminarCliente.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorTargetAssemblyInfo.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.RazorTargetAssemblyInfo.cs
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.Views.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.csproj.CopyComplete
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/HappyPet.App.Frontend.StaticWebAssets.Manifest.cache
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/staticwebassets/HappyPet.App.Frontend.StaticWebAssets.xml
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.dll
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.pdb
+/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/obj/Debug/netcoreapp3.1/HappyPet.App.Frontend.genruntimeconfig.cache
