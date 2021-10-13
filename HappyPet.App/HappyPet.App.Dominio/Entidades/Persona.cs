@@ -6,13 +6,13 @@ namespace HappyPet.App.Dominio
     public class Persona
     {
         public int Id { get; set; }
-       // [Required, StringLength(30)] 
+        [Required, StringLength(30)] 
         public string Nombres { get; set; }
-       // [Required, StringLength(30)]
+         [Required, StringLength(30)]
         public string Apellidos { get; set; }
-       // [Required, StringLength(15)]
+         [Required, StringLength(15)]
          public string DocumentoIdentidad { get; set; }
-       // [Required, StringLength(15)]
+         [Required, StringLength(15)]
         public string Telefono { get; set; }
     
         public Persona()

@@ -5,7 +5,7 @@ namespace HappyPet.App.Dominio
 {
     public class Cliente : Persona
     {  
-        //[Required, StringLength(40)] 
+        [Required, StringLength(40)] 
         public string Direccion {set; get;}
         
         public Cliente()

@@ -31,27 +31,26 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Editar
         //METODO QUE DEVUELVE UN RESULTADO TIPO PAGINA
         public IActionResult OnGet(int idCliente)
         {
-            Cliente= repositorioClientes.GetCliente(idCliente);
-            if(Cliente == null){
-                return RedirectToPage("../../Error");
-            }else{
-                return Page();
-            }            
+                Cliente= repositorioClientes.GetCliente(idCliente);
+                if(Cliente == null){
+                    return RedirectToPage("../../Error");
+                }else{
+                    return Page();
+                }            
+             
         }
 
         public IActionResult OnPost()
         {   
-            if(!ModelState.IsValid){
-                return Page();
-            }
             if(Cliente.Id > 0){
                 Cliente= repositorioClientes.UpdateCliente(Cliente);
+                return Page();
             }
             else
             {
-                Cliente= repositorioClientes.AddCliente(Cliente);
+                return RedirectToPage("../../Error");
             } 
-            return Page();
+            
         }
     }
 }

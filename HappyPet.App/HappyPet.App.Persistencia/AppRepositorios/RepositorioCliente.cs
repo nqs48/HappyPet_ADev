@@ -63,12 +63,15 @@ namespace HappyPet.App.Persistencia.AppRepositorios
 
         //METODO PARA CREAR UN CLIENTE DESDE LISTA
 
-        public Cliente AddCliente(Cliente cliente){
-            // var clienteAdicionado= listaClientes.Add(cliente);
-            // _appContext.SaveChanges();
-            // return clienteAdicionado.Entity;
-            return c1;
+        public Cliente AddCliente(Cliente nuevoCliente){
+            nuevoCliente.Id= listaClientes.Max(c => c.Id) +1;
+
+            listaClientes.Add(nuevoCliente);
+            return nuevoCliente;
         }
+
+
+
 
         //private readonly AppContext _appContext;
 
