@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using HappyPet.App.Dominio;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 
 namespace HappyPet.App.Persistencia.AppRepositorios
@@ -23,6 +24,12 @@ namespace HappyPet.App.Persistencia.AppRepositorios
             var historiaAdicionada= _appContext.HistoriasClinicas.Add(historia);
             _appContext.SaveChanges();
             return historiaAdicionada.Entity;
+        }
+
+        public HistoriaClinica AsignarVisita(HistoriaClinica historia){
+          _appContext.Entry(historia).State=EntityState.Modified;
+          _appContext.SaveChanges();
+          return historia;
         }
 
         //METODO PARA ELIMINAR Historia
@@ -56,14 +63,13 @@ namespace HappyPet.App.Persistencia.AppRepositorios
             var historiaEncontrada=_appContext.HistoriasClinicas.FirstOrDefault(c => c.Id==historia.Id);
             if(historiaEncontrada!=null)
             {
-                historiaEncontrada.Mascota= historia.Mascota;
                 historiaEncontrada.Peso= historia.Peso;
                 historiaEncontrada.Temperatura= historia.Temperatura;
                 historiaEncontrada.FrecuenciaRespiratoria= historia.FrecuenciaRespiratoria;
                 historiaEncontrada.FrecuenciaCardiaca= historia.FrecuenciaCardiaca;
                 historiaEncontrada.EstadoDeSalud= historia.EstadoDeSalud;
                 historiaEncontrada.Obcervaciones= historia.Obcervaciones;
-                historiaEncontrada.Visita= historia.Visita;
+                //historiaEncontrada.Visita= historia.Visita;
 
                 _appContext.SaveChanges();
                 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVChBQ6yQlCA0k1N5XpmitGGiJ1LSJiadYpKmhT7JF7qPzCTDBrRhxkvxlWKNZzAcLAeYrlSdWrfFFx7nHSDyQ==",
+  "dgSpecHash": "9gllVkBTEqsZH8FViMtDmtPTY2ZcpM2OAfTx7FKH8nJ3zE0KDoNt7pVr1YNUT1dVB76IHwu2sBnHDC3sMppc5Q==",
   "success": true,
-  "projectFilePath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj",
+  "projectFilePath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj",
   "expectedPackageFiles": [
     "/Users/europe/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],

@@ -51,19 +51,17 @@
             <table class="table">
                 <tr>
                     <th>ID</th>
-                    <th>Fecha</th>
-                    @* <th>Hora</th> *@
                     <th>Mascota</th>
                     <th>Propietario</th>
                     <th>Veterinario</th>
                     <th>ID M.</th>
                     <th>ID P.</th>
                     <th>ID V.</th>
+                    <th>Fecha</th>
 
                 </tr>
                 <tr>
                     <td>@Model.Visita.Id</td>
-                    <td>@Model.Visita.FechaDeVisita</td>
                     @* <td>@item.HoraDeVisita</td> *@
 
                     @if(Model.Visita.Mascota != null){
@@ -96,6 +94,7 @@
                     }else{
                       <td>N/A</td>
                     }
+                    <td>@Model.Visita.FechaDeVisita</td>
 
                 </tr>
             </table>

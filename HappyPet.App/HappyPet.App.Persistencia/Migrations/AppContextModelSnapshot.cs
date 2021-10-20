@@ -74,9 +74,6 @@ namespace HappyPet.App.Persistencia.Migrations
                     b.Property<double>("FrecuenciaRespiratoria")
                         .HasColumnType("float");
 
-                    b.Property<int?>("MascotaId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Obcervaciones")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -92,8 +89,6 @@ namespace HappyPet.App.Persistencia.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("MascotaId");
 
                     b.HasIndex("VisitaId");
 
@@ -177,9 +172,6 @@ namespace HappyPet.App.Persistencia.Migrations
                     b.Property<DateTime>("FechaDeVisita")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("HoraDeVisita")
-                        .HasColumnType("datetime2");
-
                     b.Property<int?>("MascotaId")
                         .HasColumnType("int");
 
@@ -197,15 +189,9 @@ namespace HappyPet.App.Persistencia.Migrations
 
             modelBuilder.Entity("HappyPet.App.Dominio.HistoriaClinica", b =>
                 {
-                    b.HasOne("HappyPet.App.Dominio.Mascota", "Mascota")
-                        .WithMany()
-                        .HasForeignKey("MascotaId");
-
                     b.HasOne("HappyPet.App.Dominio.Visita", "Visita")
                         .WithMany()
                         .HasForeignKey("VisitaId");
-
-                    b.Navigation("Mascota");
 
                     b.Navigation("Visita");
                 });

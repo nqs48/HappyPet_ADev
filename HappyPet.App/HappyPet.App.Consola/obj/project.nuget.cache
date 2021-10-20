@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nYtLR76Irxt2KQYDR66/KYqZxlp2RxDHF4cb+QujHxumA7nmJD8hu87Gj0nkZ6v9UdjAHuZ0ycUPHHjDXeV7yw==",
+  "dgSpecHash": "yAnroMPbhZOEu/e3cU9x9V0xQWu5mrZuf/fqWcgUC59AgZrFPPEiHQ8WIR9SwqzvoQwurv5rLOBIi67z7VgOqA==",
   "success": true,
-  "projectFilePath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
+  "projectFilePath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
   "expectedPackageFiles": [
     "/Users/europe/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/europe/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

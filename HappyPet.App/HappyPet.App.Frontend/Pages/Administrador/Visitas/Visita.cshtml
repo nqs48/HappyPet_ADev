@@ -70,18 +70,17 @@
     <section class="position-table">
         <table class="table">
             <tr>
-                <th>ID</th>
-                <th>Fecha</th>
-                @* <th>Hora</th> *@
+                <th>ID Visita</th>
                 <th>Mascota</th>
                 <th>Veterinario</th>
+                <th>Fecha</th>
                 <th>&nbsp;&nbsp;Info.</th>
             </tr>
             @foreach (var item in Model.Visitas)
             {
                 <tr>
                     <td>@item.Id</td>
-                    <td>@item.FechaDeVisita</td>
+                    
                     @if(item.Mascota != null){
                       <td>@item.Mascota.Nombre</td>
                     }else{
@@ -93,6 +92,7 @@
                     }else{
                       <td>N/A</td>
                     }
+                    <td>@item.FechaDeVisita</td>
                     <td>
                         <a class="btn btm primary table-btn" asp-page="./Detalles/Detalles"  asp-route-idVisita="@item.Id"><i class="fas fa-info-circle fa-lg"></i> </a>
                     </td>

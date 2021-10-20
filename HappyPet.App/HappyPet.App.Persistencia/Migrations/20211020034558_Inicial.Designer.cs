@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HappyPet.App.Persistencia.Migrations
 {
     [DbContext(typeof(HappyPet.App.Persistencia.AppRepositorios.AppContext))]
-    [Migration("20211014000125_Inicial")]
+    [Migration("20211020034558_Inicial")]
     partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -76,9 +76,6 @@ namespace HappyPet.App.Persistencia.Migrations
                     b.Property<double>("FrecuenciaRespiratoria")
                         .HasColumnType("float");
 
-                    b.Property<int?>("MascotaId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Obcervaciones")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -94,8 +91,6 @@ namespace HappyPet.App.Persistencia.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("MascotaId");
 
                     b.HasIndex("VisitaId");
 
@@ -179,9 +174,6 @@ namespace HappyPet.App.Persistencia.Migrations
                     b.Property<DateTime>("FechaDeVisita")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("HoraDeVisita")
-                        .HasColumnType("datetime2");
-
                     b.Property<int?>("MascotaId")
                         .HasColumnType("int");
 
@@ -199,15 +191,9 @@ namespace HappyPet.App.Persistencia.Migrations
 
             modelBuilder.Entity("HappyPet.App.Dominio.HistoriaClinica", b =>
                 {
-                    b.HasOne("HappyPet.App.Dominio.Mascota", "Mascota")
-                        .WithMany()
-                        .HasForeignKey("MascotaId");
-
                     b.HasOne("HappyPet.App.Dominio.Visita", "Visita")
                         .WithMany()
                         .HasForeignKey("VisitaId");
-
-                    b.Navigation("Mascota");
 
                     b.Navigation("Visita");
                 });

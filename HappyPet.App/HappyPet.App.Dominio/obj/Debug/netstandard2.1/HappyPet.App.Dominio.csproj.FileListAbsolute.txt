@@ -34,3 +34,12 @@ C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.A
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.csproj.CoreCompileInputs.cache
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.dll
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/bin/Debug/netstandard2.1/HappyPet.App.Dominio.deps.json
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.csprojAssemblyReference.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.AssemblyInfoInputs.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.AssemblyInfo.cs
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.csproj.CoreCompileInputs.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/obj/Debug/netstandard2.1/HappyPet.App.Dominio.pdb

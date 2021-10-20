@@ -70,7 +70,6 @@ namespace HappyPet.App.Persistencia.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     FechaDeVisita = table.Column<DateTime>(type: "datetime2", nullable: false),
-                    HoraDeVisita = table.Column<DateTime>(type: "datetime2", nullable: false),
                     VeterinarioId = table.Column<int>(type: "int", nullable: true),
                     MascotaId = table.Column<int>(type: "int", nullable: true)
                 },
@@ -97,24 +96,17 @@ namespace HappyPet.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    MascotaId = table.Column<int>(type: "int", nullable: true),
+                    VisitaId = table.Column<int>(type: "int", nullable: true),
                     Peso = table.Column<double>(type: "float", nullable: false),
                     Temperatura = table.Column<double>(type: "float", nullable: false),
                     FrecuenciaRespiratoria = table.Column<double>(type: "float", nullable: false),
                     FrecuenciaCardiaca = table.Column<double>(type: "float", nullable: false),
                     EstadoDeSalud = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
-                    Obcervaciones = table.Column<string>(type: "nvarchar(150)", maxLength: 150, nullable: false),
-                    VisitaId = table.Column<int>(type: "int", nullable: true)
+                    Obcervaciones = table.Column<string>(type: "nvarchar(150)", maxLength: 150, nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_HistoriasClinicas", x => x.Id);
-                    table.ForeignKey(
-                        name: "FK_HistoriasClinicas_Mascotas_MascotaId",
-                        column: x => x.MascotaId,
-                        principalTable: "Mascotas",
-                        principalColumn: "Id",
-                        onDelete: ReferentialAction.Restrict);
                     table.ForeignKey(
                         name: "FK_HistoriasClinicas_Visitas_VisitaId",
                         column: x => x.VisitaId,
@@ -122,11 +114,6 @@ namespace HappyPet.App.Persistencia.Migrations
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
                 });
-
-            migrationBuilder.CreateIndex(
-                name: "IX_HistoriasClinicas_MascotaId",
-                table: "HistoriasClinicas",
-                column: "MascotaId");
 
             migrationBuilder.CreateIndex(
                 name: "IX_HistoriasClinicas_VisitaId",

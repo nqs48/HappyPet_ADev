@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aYGVEMf1wac4tF9Oo8IjZYdn9Bz1Oc9NkKYoXlWXs3QxTGvDD9pvkBCuZPvzUKBVXQA9RGATB1+wUZFcI9fpRA==",
+  "dgSpecHash": "/8zeoUK2pEbL+hZEABearHcjC0hJFkKGB4YCvCFC6/B9qjzJvruz+I6bNukpVxL8FBDELD41H9YHVV2iETiYFw==",
   "success": true,
-  "projectFilePath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/HappyPet.App.Frontend.csproj",
+  "projectFilePath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Frontend/HappyPet.App.Frontend.csproj",
   "expectedPackageFiles": [
     "/Users/europe/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/europe/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

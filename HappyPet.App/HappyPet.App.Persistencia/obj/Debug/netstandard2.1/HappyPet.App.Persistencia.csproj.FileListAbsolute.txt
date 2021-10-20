@@ -46,3 +46,15 @@ C:/Users/nqs48/Documents/Estudio/A Dev/HappyPet_Personal/HappyPet.App/HappyPet.A
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
 /Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.deps.json
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.dll
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/bin/Debug/netstandard2.1/HappyPet.App.Dominio.pdb
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csprojAssemblyReference.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfoInputs.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.AssemblyInfo.cs
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CoreCompileInputs.cache
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.csproj.CopyComplete
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.dll
+/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/Debug/netstandard2.1/HappyPet.App.Persistencia.pdb

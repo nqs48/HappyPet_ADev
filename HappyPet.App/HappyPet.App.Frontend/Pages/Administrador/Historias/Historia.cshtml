@@ -70,10 +70,9 @@
     <section class="position-table">
         <table class="table">
             <tr>
-                <th>ID</th>
+                <th>ID Historia</th>
                 <th>Mascota</th>
                 <th>Peso (Kgs)</th>
-                @* <th>Hora</th> *@
                 <th>Temperatura (°C)</th>
                 <th>Estado de Salud</th>
                 <th>&nbsp;&nbsp;Info.</th>
@@ -82,8 +81,8 @@
             {
                 <tr>
                     <td>@item.Id</td>
-                    @if(item.Mascota != null){
-                      <td>@item.Mascota.Nombre</td>
+                    @if(item.Visita != null){
+                      <td>@item.Visita.Mascota.Nombre</td>
                     }else{
                       <td>N/A</td>
                     }

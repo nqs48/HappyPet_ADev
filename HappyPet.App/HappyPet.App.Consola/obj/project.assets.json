@@ -5805,11 +5805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
+      "projectUniqueName": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
       "projectName": "HappyPet.App.Consola",
-      "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
+      "projectPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/HappyPet.App.Consola.csproj",
       "packagesPath": "/Users/europe/.nuget/packages/",
-      "outputPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/obj/",
+      "outputPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Consola/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/europe/.nuget/NuGet/NuGet.Config"
@@ -5823,11 +5823,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj": {
-              "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj"
+            "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj": {
+              "projectPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj"
             },
-            "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj": {
-              "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj"
+            "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj": {
+              "projectPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj"
             }
           }
         }

@@ -7271,11 +7271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj",
+      "projectUniqueName": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj",
       "projectName": "HappyPet.App.Persistencia",
-      "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj",
+      "projectPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/HappyPet.App.Persistencia.csproj",
       "packagesPath": "/Users/europe/.nuget/packages/",
-      "outputPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/",
+      "outputPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/europe/.nuget/NuGet/NuGet.Config"
@@ -7289,8 +7289,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj": {
-              "projectPath": "/Users/europe/Desktop/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj"
+            "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj": {
+              "projectPath": "/Users/europe/Documents/Perfil Profesional/Proyectos/HappyPet_Personal/HappyPet.App/HappyPet.App.Dominio/HappyPet.App.Dominio.csproj"
             }
           }
         }

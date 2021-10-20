@@ -63,8 +63,65 @@
 
 <main>
 
-    <h1 class="main-title">Crear Visita<br></h1>
+    <h1 class="main-title">Crear Historia<br></h1>
     <section class="section-form">
+      <form class="form-form" method="post">
+
+            <input type="hidden" asp-for="Historia.Id" />
+
+             <div class="form-group">
+                <strong><label asp-for="Historia.Visita.Id">Visita</label></strong>
+                <select class="form-control" asp-for="VisitaSeleccionada"> 
+                  <option label="Seleccionar" value="-1"></option>
+                  @foreach (var item in Model.Visitas)
+                  {
+                    <option label="ID: @item.Id &nbsp;&nbsp; @item.Mascota.Nombre &nbsp;&nbsp; @item.FechaDeVisita" value="@item.Id"></option>   
+                  }
+                </select>
+                <span class="text-danger" asp-validation-for="Historia.Visita.Id"></span>
+            </div>
+
+            <div class="form-group">
+                <strong><label asp-for="Historia.Peso"></label></strong>
+                <input asp-for="Historia.Peso" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.Peso"></span>
+            </div>
+
+            <div class="form-group">
+                <strong><label asp-for="Historia.Temperatura"></label></strong>
+                <input asp-for="Historia.Temperatura" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.Temperatura"></span>
+            </div>
+
+             <div class="form-group">
+                <strong><label asp-for="Historia.FrecuenciaRespiratoria"></label></strong>
+                <input asp-for="Historia.FrecuenciaRespiratoria" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.FrecuenciaRespiratoria"></span>
+            </div>
+
+            <div class="form-group">
+                <strong><label asp-for="Historia.FrecuenciaCardiaca"></label></strong>
+                <input asp-for="Historia.FrecuenciaCardiaca" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.FrecuenciaCardiaca"></span>
+            </div>
+
+            <div class="form-group">
+                <strong><label asp-for="Historia.EstadoDeSalud"></label></strong>
+                <input asp-for="Historia.EstadoDeSalud" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.EstadoDeSalud"></span>
+            </div>
+
+            <div class="form-group">
+                <strong><label asp-for="Historia.Obcervaciones"></label></strong>
+                <input asp-for="Historia.Obcervaciones" class="form-control">
+                <span class="text-danger" asp-validation-for="Historia.Obcervaciones"></span>
+            </div>
+
+            <div class="boton-form">
+                <button type="submit" class="btn btn-primary">Guardar</button><br>
+             </div> 
+            
+        </form>
         
     </section>
 

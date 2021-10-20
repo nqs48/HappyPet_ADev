@@ -9,6 +9,7 @@ namespace HappyPet.App.Persistencia.AppRepositorios
 
         //Crear HistoriaClinica
         HistoriaClinica AddHistoria(HistoriaClinica historia);
+        HistoriaClinica AsignarVisita(HistoriaClinica historia);
 
         //Actualizar HistoriaClinica
         HistoriaClinica UpdateHistoria(HistoriaClinica historiaActualizada);
