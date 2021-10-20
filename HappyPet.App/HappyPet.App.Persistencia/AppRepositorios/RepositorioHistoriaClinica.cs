@@ -62,6 +62,7 @@ namespace HappyPet.App.Persistencia.AppRepositorios
                 historiaEncontrada.FrecuenciaRespiratoria= historia.FrecuenciaRespiratoria;
                 historiaEncontrada.FrecuenciaCardiaca= historia.FrecuenciaCardiaca;
                 historiaEncontrada.EstadoDeSalud= historia.EstadoDeSalud;
+                historiaEncontrada.Obcervaciones= historia.Obcervaciones;
                 historiaEncontrada.Visita= historia.Visita;
 
                 _appContext.SaveChanges();

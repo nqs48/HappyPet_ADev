@@ -1,0 +1,76 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Administrador.Historias.Crear.CrearHistoriaModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+
+    .section-form{
+        display: flex;
+        justify-content: center;
+        margin:1rem ;
+        padding: 1rem;
+    }
+
+    
+    .form-form{
+        width: 35%;
+        background-color: aliceblue;
+        border-radius: 1rem;
+        padding: 1.5rem;
+
+    }
+
+    .boton-form{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .container-buttons{   
+        width: auto;
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+    .boton-form button:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .boton-form button:active{
+        background-color: black !important;
+    }
+
+
+</style>
+
+<main>
+
+    <h1 class="main-title">Crear Visita<br></h1>
+    <section class="section-form">
+        
+    </section>
+
+
+    <aside class="container-buttons">
+            <a class="btn table-btn" asp-page="../Historia"><i class="fas fa-undo fa-lg"></i><br><b>Return</b></a>
+            <a class="btn table-btn" asp-page="../Historia" ><i class="fas fa-eye fa-lg"></i><br><b>Ver Historia</b></a>
+    </aside>
+</main>

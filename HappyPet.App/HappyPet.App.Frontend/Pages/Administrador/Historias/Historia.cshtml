@@ -1,0 +1,104 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Administrador.Historias.HistoriaModel
+@{
+}
+<style>
+    
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+        
+    }
+
+    .container-buttons{ 
+          
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black;
+        color: gold;
+    }
+
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+
+    .position-table{
+        padding: 1rem;
+        padding-top: 3rem;
+    }
+
+    .container-buttons-bootom{
+        display: flex;
+        justify-content: center;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons-bootom a:hover{
+        background-color: black;
+        color: gold;
+    }
+    
+    .container-buttons-bootom a:active{
+        background-color: black !important;
+       
+    }
+
+
+</style>
+
+<main>
+    <h1 class="main-title">Menu Historias Clinicas</h1>
+ 
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="./Crear/CrearHistoria">
+            <i class="fas fa-plus fa-lg"></i><br><b>Crear</b>
+        </a>
+        <a class="btn table-btn" asp-page="./Buscar/BuscarHistoria">
+            <i class="fas fa-search fa-lg"></i><br><b>Buscar</b>
+        </a>
+    </aside>
+    <section class="position-table">
+        <table class="table">
+            <tr>
+                <th>ID</th>
+                <th>Mascota</th>
+                <th>Peso (Kgs)</th>
+                @* <th>Hora</th> *@
+                <th>Temperatura (°C)</th>
+                <th>Estado de Salud</th>
+                <th>&nbsp;&nbsp;Info.</th>
+            </tr>
+            @foreach (var item in Model.HistoriaClinicas)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    @if(item.Mascota != null){
+                      <td>@item.Mascota.Nombre</td>
+                    }else{
+                      <td>N/A</td>
+                    }
+                    <td>@item.Peso</td>
+                    <td>@item.Temperatura</td>
+                    <td>@item.EstadoDeSalud</td>
+                    <td>
+                        <a class="btn btm primary table-btn" asp-page="./Detalles/Detalles"  asp-route-idHistoria="@item.Id"><i class="fas fa-info-circle fa-lg"></i> </a>
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </section>
+    <aside class="container-buttons-bootom">
+        <a class="btn  table-btn" asp-page="../../index"><i class="fas fa-house-user fa-lg"></i><br><b>Home</b></a>
+    </aside>
+</main>

@@ -20,8 +20,8 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Crear
             //Se crea un atributo tipo Saludo donde se almacenaran los datos del IRepositorio
             [BindProperty]
             public Cliente Cliente{get;set;}
-            public Cliente Cliente2{get;set;}
-            public IEnumerable<Cliente> Clientes{get;set;}
+            //public Cliente Cliente2{get;set;}
+            //public IEnumerable<Cliente> Clientes{get;set;}
 
             //METOD COSTRUCTOR
             public CrearClienteModel(IRepositorioCliente repositorioClientes)
@@ -48,7 +48,7 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Crear
             public IActionResult OnPost()
             {   
                     repositorioClientes.AddCliente(Cliente);
-                    return Page();
+                    return RedirectToPage("../Cliente");
            
             }
     

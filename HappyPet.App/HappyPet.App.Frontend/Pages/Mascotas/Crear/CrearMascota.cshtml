@@ -1,0 +1,119 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Mascotas.Crear.CrearMascotaModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+
+    .section-form{
+        display: flex;
+        justify-content: center;
+        margin:1rem ;
+        padding: 1rem;
+    }
+
+    
+    .form-form{
+        width: 35%;
+        background-color: aliceblue;
+        border-radius: 1rem;
+        padding: 1.5rem;
+
+    }
+
+    .boton-form{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .container-buttons{   
+        width: auto;
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+    .boton-form button:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .boton-form button:active{
+        background-color: black !important;
+    }
+
+
+</style>
+
+<main>
+
+    <h1 class="main-title">Crear mascota<br></h1>
+    <section class="section-form">
+        <form class="form-form" method="post">
+            <input type="hidden" asp-for="mascota.Id" />
+            <div class="form-group">
+                <strong><label asp-for="mascota.Nombre"></label></strong>
+                <input asp-for="mascota.Nombre" class="form-control">
+                <span class="text-danger" asp-validation-for="mascota.Nombre"></span>
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="mascota.Especie"></label></strong>
+                <select asp-for="mascota.Especie" class="form-control" >
+                    <option label="Seleccionar" value=null></option>
+                    <option label="Ave" value="Ave"></option>
+                    <option label="Canino" value="Canino"></option>
+                    <option label="Felino" value="Felino"></option>
+                </select>    
+                <span class="text-danger" asp-validation-for="mascota.Especie"></span>
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="mascota.Raza"></label></strong>
+                <input asp-for="mascota.Raza" class="form-control">
+                <span class="text-danger" asp-validation-for="mascota.Raza"></span>
+            </div>
+
+
+            <div class="form-group">
+                <strong><label asp-for="mascota.Cliente.Id">Propietario</label></strong>
+                <select class="form-control" asp-for="clienteSeleccionado"> 
+                  <option label="Seleccionar" value="-1"></option>
+                  @foreach (var item in Model.Clientes)
+                  {
+                    <option label="ID: @item.Id &nbsp;&nbsp; @item.Nombres @item.Apellidos" value="@item.Id"></option>   
+                  }
+                </select>
+                <span class="text-danger" asp-validation-for="mascota.Cliente.Id"></span>
+            </div>
+
+
+
+
+            <div class="boton-form">
+                <button type="submit" class="btn btn-primary">Guardar</button><br>
+             </div> 
+            
+        </form>
+    </section>
+
+
+    <aside class="container-buttons">
+            <a class="btn table-btn" asp-page="../mascota"><i class="fas fa-undo fa-lg"></i><br><b>Return</b></a>
+            <a class="btn table-btn" asp-page="../Detalles/Detalles" asp-route-idmascota="@Model.mascota.Id"><i class="fas fa-eye fa-lg"></i><br><b>Ver Mascota</b></a>
+    </aside>
+</main>

@@ -1,4 +1,6 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace HappyPet.App.Dominio
 {
     public class Veterinario : Persona
@@ -14,5 +16,10 @@ namespace HappyPet.App.Dominio
             this.Telefono= telefono;
             TarjetaProfesional = tarjetaProfesional;
         }
+
+    public Veterinario()
+    {
+      
     }
+  }
 }

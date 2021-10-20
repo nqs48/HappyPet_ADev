@@ -11,6 +11,100 @@
         padding: 20px;
     }
 
+    .section-form{
+        display: flex;
+        justify-content: center;
+        margin:1rem ;
+        padding: 1rem;
+    }
+
+    
+    .form-form{
+        width: 35%;
+        background-color: aliceblue;
+        border-radius: 1rem;
+        padding: 1.5rem;
+
+    }
+
+    .container-buttons{   
+        width: auto;
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .boton-form{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+    .boton-form button:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .boton-form button:active{
+        background-color: black !important;
+    }
+
 </style>
 
-<h1 class="main-title">Formulario Buscar Cliente</h1>
+
+<main>
+    <h1 class="main-title">Buscar Cliente</h1>
+
+    <section class="section-form">
+        <form class="form-form" method="post">
+            @* <input type="hidden" asp-for="Cliente.Id" /> *@
+            <div class="form-group">
+                <strong><label asp-for="Cliente.Id"></label></strong>
+                <input type="number"  class="form-control">   
+            </div>
+            <div class="boton-form">
+               <button type="submit" class="btn btn-primary">Buscar</button><br>
+             </div> 
+            
+        </form>
+    </section>
+
+@* @if(Model.Cliente.Id != 0){
+
+   <section class="main-section">
+        <div class="container-information">
+            <strong>Cliente</strong><br><br>
+            <table class="table">
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+
+                    <th>Especie</th>
+                    <th>Raza</th>
+                    <th>Id Propietario</th>
+                </tr>
+                <tr>
+                    <td>@Model.Cliente.Id</td>
+                    @* <td>@Model.Cliente.Nombre</td>
+                    <td>@Model.Cliente.Especie</td>
+                    <td>@Model.Cliente.Raza</td>
+                    <td>@Model.Cliente.Cliente.Id</td> 
+                </tr>
+            </table>
+        </div> 
+    </section>
+   
+} *@
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Cliente"><i class="fas fa-undo fa-lg"></i><br><strong>Return</strong></a>   
+    </aside>
+</main>
+   

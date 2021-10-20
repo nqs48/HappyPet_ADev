@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using HappyPet.App.Dominio;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
 
 namespace HappyPet.App.Persistencia.AppRepositorios
 {
@@ -22,6 +23,18 @@ namespace HappyPet.App.Persistencia.AppRepositorios
             var visitaAdicionada= _appContext.Visitas.Add(visita);
             _appContext.SaveChanges();
             return visitaAdicionada.Entity;
+        }
+
+        public Visita AsignarMascota(Visita visita){
+          _appContext.Entry(visita).State=EntityState.Modified;
+          _appContext.SaveChanges();
+          return visita;
+        }
+
+        public Visita AsignarVeterinario(Visita visita){
+          _appContext.Entry(visita).State=EntityState.Modified;
+          _appContext.SaveChanges();
+          return visita;
         }
 
         //METODO PARA ELIMINAR Visita
@@ -56,9 +69,9 @@ namespace HappyPet.App.Persistencia.AppRepositorios
             if(visitaEncontrada!=null)
             {
                 visitaEncontrada.FechaDeVisita= visita.FechaDeVisita;
-                visitaEncontrada.HoraDeVisita= visita.HoraDeVisita;
-                visitaEncontrada.Veterinario= visita.Veterinario;
-                visitaEncontrada.Mascota= visita.Mascota;
+                //visitaEncontrada.HoraDeVisita= visita.HoraDeVisita;
+                //visitaEncontrada.Veterinario= visita.Veterinario;
+                //visitaEncontrada.Mascota= visita.Mascota;
 
                 _appContext.SaveChanges();
                 

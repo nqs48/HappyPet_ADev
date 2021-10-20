@@ -12,11 +12,37 @@ namespace HappyPet.App.Consola
 {
     class Program
     {
-        public static IRepositorioCliente _repoCliente= new RepositorioCliente(new Persistencia.AppRepositorios.AppContext());
+        //public static IRepositorioCliente _repoCliente= new RepositorioCliente(new Persistencia.AppRepositorios.AppContext());
+
+        //public static IRepositorioMascota _repoMascota= new RepositorioMascota(new Persistencia.AppRepositorios.AppContext());
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Veronica esta muy guapa!\n\n");
+            // Console.WriteLine("Hello World Veronica esta muy guapa!\n\n");
+
+            // Cliente c1 = new Cliente(0,"Nestor","Quiroga Suarez","123456","310478474","Susa");
+
+            // Mascota m1 = new Mascota(0,"Molly","Canino","Pinscher",c1.Id);
+
+            // AgregarMascota(m1);
+
+            
         }
+
+
+  // private static Cliente AgregarCliente(Cliente c)
+  //       {
+  //           var clienteCreado= _repoCliente.AddCliente(c);
+  //           //Console.WriteLine("El cliente ha sido creado: "+"\n\nId: "+c.Id+"\nCliente: "+c.Nombres+" "+c.Apellidos+"\nIdentificacion: "+c.DocumentoIdentidad+"\nTelefono: "+c.Telefono+"\n\n");
+  //           return clienteCreado;
+  //       }
+
+  // private static Mascota AgregarMascota(Mascota m)
+  //       {
+  //           var mascotaCreada= _repoMascota.AddMascota(m);
+  //           //Console.WriteLine("El cliente ha sido creado: "+"\n\nId: "+c.Id+"\nCliente: "+c.Nombres+" "+c.Apellidos+"\nIdentificacion: "+c.DocumentoIdentidad+"\nTelefono: "+c.Telefono+"\n\n");
+  //           return mascotaCreada;
+  //       }
+
     }
 }
 
@@ -74,19 +100,7 @@ namespace HappyPet.App.Consola
         //IMPLEMENTACION DE METODOS CRUD
 
         //CREAR
-        // private static void AgregarCliente(Cliente c)
-        // {
-        //     var cliente= new Cliente{
-        //     Nombres= c.Nombres,
-        //     Apellidos=c.Apellidos,
-        //     DocumentoIdentidad=c.DocumentoIdentidad,
-        //     Telefono=c.Telefono,
-        //     Direccion=c.Direccion,
-        //     };
-        //     _repoCliente.AddCliente(cliente);
-        //     Console.WriteLine("El cliente ha sido creado: "+"\n\nId: "+cliente.Id+"\nCliente: "+c.Nombres+" "+c.Apellidos+"\nIdentificacion: "+cliente.DocumentoIdentidad+"\nTelefono: "+cliente.Telefono+"\n\n");
-
-        // }
+        
 
 
         //BUSCAR

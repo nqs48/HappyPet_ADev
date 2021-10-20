@@ -1,0 +1,108 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Veterinarios.Editar.EditarVeterinarioModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+
+    .section-form{
+        display: flex;
+        justify-content: center;
+        margin:1rem ;
+        padding: 1rem;
+    }
+
+    
+    .form-form{
+        width: 35%;
+        background-color: aliceblue;
+        border-radius: 1rem;
+        padding: 1.5rem;
+
+    }
+
+    .boton-form{
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+    .container-buttons{   
+        width: auto;
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+    .boton-form button:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .boton-form button:active{
+        background-color: black !important;
+    }
+
+
+</style>
+
+
+<main>
+    <h1 class="main-title">Editar Veterinario<br>ID: @Model.Veterinario.Id<br></h1>
+    <section class="section-form">
+        <form class="form-form" method="post">
+            <input type="hidden" asp-for="Veterinario.Id" />
+            <div class="form-group">
+                <strong><label asp-for="Veterinario.Nombres"></label></strong>
+                <input asp-for="Veterinario.Nombres" class="form-control">
+                <span class="text-danger" asp-validation-for="Veterinario.Nombres"></span>
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Veterinario.Apellidos"></label></strong>
+                <input asp-for="Veterinario.Apellidos" class="form-control">
+                <span class="text-danger" asp-validation-for="Veterinario.Apellidos"></span>
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Veterinario.DocumentoIdentidad"></label></strong>
+                <input asp-for="Veterinario.DocumentoIdentidad" class="form-control">
+                <span class="text-danger" asp-validation-for="Veterinario.DocumentoIdentidad"></span>
+            </div>
+            <div class="form-group">
+                <strong><label asp-for="Veterinario.Telefono"></label></strong>
+                <input asp-for="Veterinario.Telefono" class="form-control">
+                <span class="text-danger" asp-validation-for="Veterinario.Telefono"></span>
+            </div>
+            <div class="form-group"> 
+                <strong><label>TarjetaProfesional</label></strong>                                     @* INGRESO DE TEXTO DIRECTO AL LABEL SIN ASOCIACION *@        
+                <input asp-for="Veterinario.TarjetaProfesional" class="form-control">
+                <span class="text-danger" asp-validation-for="Veterinario.TarjetaProfesional"></span>
+            </div>
+            <div class="boton-form">
+                <button type="submit" class="btn btn-primary">Guardar</button><br>
+             </div> 
+            
+        </form>
+    </section>
+
+
+    <aside class="container-buttons">
+            <a class="btn table-btn" asp-page="../Veterinario" asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-boxes fa-lg"></i><br><b>Menu Veterinarios</b></a>
+            <a class="btn table-btn" asp-page="../Detalles/Detalles" asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-eye fa-lg"></i><br><b>Ver Veterinario</b></a>
+            
+    </aside>
+</main>

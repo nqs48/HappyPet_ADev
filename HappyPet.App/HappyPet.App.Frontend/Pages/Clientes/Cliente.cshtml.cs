@@ -14,7 +14,7 @@ namespace HappyPet.App.Frontend.Pages.Clientes
 {
     public class ClienteModel : PageModel
     {
-//Se crea una referencia o atributo  TIPO IRepositorioSaludos de SOLO LECTURA (readOnly)
+        //Se crea una referencia o atributo  TIPO IRepositorioSaludos de SOLO LECTURA (readOnly)
         private readonly IRepositorioCliente repositorioCliente;
         
         public IEnumerable<Cliente> Clientes{get;set;}

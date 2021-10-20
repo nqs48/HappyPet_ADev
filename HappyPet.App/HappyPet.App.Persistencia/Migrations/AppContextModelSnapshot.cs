@@ -64,7 +64,9 @@ namespace HappyPet.App.Persistencia.Migrations
                         .UseIdentityColumn();
 
                     b.Property<string>("EstadoDeSalud")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
 
                     b.Property<double>("FrecuenciaCardiaca")
                         .HasColumnType("float");
@@ -75,14 +77,19 @@ namespace HappyPet.App.Persistencia.Migrations
                     b.Property<int?>("MascotaId")
                         .HasColumnType("int");
 
+                    b.Property<string>("Obcervaciones")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("nvarchar(150)");
+
                     b.Property<double>("Peso")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Temperatura")
                         .HasColumnType("float");
 
                     b.Property<int?>("VisitaId")
                         .HasColumnType("int");
-
-                    b.Property<double>("temperatura")
-                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -104,13 +111,19 @@ namespace HappyPet.App.Persistencia.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Especie")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.Property<string>("Nombre")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(25)
+                        .HasColumnType("nvarchar(25)");
 
                     b.Property<string>("Raza")
-                        .HasColumnType("nvarchar(max)");
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
 
                     b.HasKey("Id");
 

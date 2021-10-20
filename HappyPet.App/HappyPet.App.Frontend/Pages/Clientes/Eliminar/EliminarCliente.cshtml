@@ -27,14 +27,19 @@
         background-color: black !important;
     }
 
+  .main-subtitle{
+        text-align: center;
+        background-color: aliceblue;
+        border-radius: 1rem;    
 
 </style>
+
 <h1 class="main-title">Formulario Eliminar Cliente</h1>
 
-<p>El cliente ha sido eliminado</p>
+<h4 class="main-subtitle">El Cliente ha sido Eliminado!! </h4>
 
 <aside class="container-buttons">
-        <a class="btn table-btn" asp-page="../Cliente"><i class="fas fa-info-circle fa-lg"></i><br><strong>Menu</strong></a>
+        <a class="btn table-btn" asp-page="../Cliente"><i class="fas fa-boxes fa-lg"></i><br><strong>Menu Clientes</strong></a>
         @* <a class="btn table-btn" asp-page="../Editar/EditarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Editar</a>
         <a class="btn table-btn" asp-page="../Eliminar/EliminarCliente"  asp-route-idCliente="@Model.Cliente.Id"><i class="fas fa-address-book fa-lg"></i><br>Eliminar</a> *@
 </aside>

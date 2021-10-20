@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace HappyPet.App.Persistencia.Migrations
 {
-    public partial class Initial : Migration
+    public partial class Inicial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -47,9 +47,9 @@ namespace HappyPet.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Nombre = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Especie = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    Raza = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Nombre = table.Column<string>(type: "nvarchar(25)", maxLength: 25, nullable: false),
+                    Especie = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
+                    Raza = table.Column<string>(type: "nvarchar(20)", maxLength: 20, nullable: false),
                     ClienteId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>
@@ -97,12 +97,13 @@ namespace HappyPet.App.Persistencia.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    MascotaId = table.Column<int>(type: "int", nullable: true),
                     Peso = table.Column<double>(type: "float", nullable: false),
-                    temperatura = table.Column<double>(type: "float", nullable: false),
+                    Temperatura = table.Column<double>(type: "float", nullable: false),
                     FrecuenciaRespiratoria = table.Column<double>(type: "float", nullable: false),
                     FrecuenciaCardiaca = table.Column<double>(type: "float", nullable: false),
-                    EstadoDeSalud = table.Column<string>(type: "nvarchar(max)", nullable: true),
-                    MascotaId = table.Column<int>(type: "int", nullable: true),
+                    EstadoDeSalud = table.Column<string>(type: "nvarchar(30)", maxLength: 30, nullable: false),
+                    Obcervaciones = table.Column<string>(type: "nvarchar(150)", maxLength: 150, nullable: false),
                     VisitaId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>

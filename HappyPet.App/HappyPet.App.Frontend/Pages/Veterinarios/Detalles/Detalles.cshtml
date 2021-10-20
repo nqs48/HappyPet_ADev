@@ -1,0 +1,80 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Veterinarios.Detalles.DetallesModel
+@{
+}
+<style>
+    
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+    
+    .main-section{
+        display: flex;
+        justify-content: center;
+    }
+
+    .container-information{
+        background-color: aliceblue;
+        padding: 1rem;
+        margin: 1rem;
+        text-align: center;
+        border-radius: 15px;
+
+    }
+</style>
+
+<main>
+    <h1 class="main-title">Detalle de Veterinarios</h1>
+
+    <section class="main-section">
+        <div class="container-information">
+            <strong>Veterinario</strong><br><br>
+            <table class="table">
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Documento</th>
+                    <th>Telefono</th>
+                    <th>Tarjeta Profesional</th>
+                </tr>
+                <tr>
+                    <td>@Model.Veterinario.Id</td>
+                    <td>@Model.Veterinario.Nombres</td>
+                    <td>@Model.Veterinario.Apellidos</td>
+                    <td>@Model.Veterinario.DocumentoIdentidad</td>
+                    <td>@Model.Veterinario.Telefono</td>
+                    <td>@Model.Veterinario.TarjetaProfesional</td>
+                    
+        
+                </tr>
+            </table>
+        </div> 
+    </section>
+
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Veterinario"><i class="fas fa-undo fa-lg"></i><br><b>Return</b></a>
+        <a class="btn table-btn" asp-page="../Editar/EditarVeterinario"  asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-user-edit fa-lg"></i><br><b>Editar</b></a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarVeterinario"  asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-trash fa-lg"></i><br><b>Eliminar</b></a>
+    </aside>
+
+</main>

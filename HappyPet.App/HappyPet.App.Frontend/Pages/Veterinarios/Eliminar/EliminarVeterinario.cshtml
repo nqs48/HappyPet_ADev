@@ -1,0 +1,47 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Veterinarios.Eliminar.EliminarVeterinarioModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }    
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+  .main-subtitle{
+        text-align: center;
+        background-color: aliceblue;
+        border-radius: 1rem;    
+  }
+
+</style>
+<h1 class="main-title">Formulario Eliminar Veterinario</h1>
+
+<h3 class="main-subtitle">El Veterinario ha sido eliminado</h3>
+
+<aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Veterinario"><i class="fas fa-boxes fa-lg"></i><br><strong>Menu Veterinario</strong></a>
+        @* <a class="btn table-btn" asp-page="../Editar/EditarVeterinario"  asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-address-book fa-lg"></i><br>Editar</a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarVeterinario"  asp-route-idVeterinario="@Model.Veterinario.Id"><i class="fas fa-address-book fa-lg"></i><br>Eliminar</a> *@
+</aside>
+
+

@@ -16,6 +16,8 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Detalles
         private readonly IRepositorioCliente repositorioClientes;
 
         //Se crea un atributo tipo Saludo donde se almacenaran los datos del IRepositorio
+        
+        [BindProperty]
         public Cliente Cliente{get;set;}
 
         //METOD COSTRUCTOR
@@ -28,14 +30,9 @@ namespace HappyPet.App.Frontend.Pages.Clientes.Detalles
         public IActionResult OnGet(int idCliente)
         {
             Cliente= repositorioClientes.GetCliente(idCliente);
-            if(Cliente != null){
-                return Page();
-                
-            }else{
-                return RedirectToPage("../../Error");
-            }            
+            return Page();
+            
         }
-
 
     }
 }

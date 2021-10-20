@@ -29,7 +29,7 @@ namespace HappyPet.App.Frontend
             services.AddRazorPages();
             services.AddSingleton<IRepositorioCliente, RepositorioCliente>();
             services.AddSingleton<IRepositorioHistoriaClinica, RepositorioHistoriaClinica>();
-            services.AddSingleton<IRepositorioMascota, RepositorioMascota>();
+            services.AddScoped<IRepositorioMascota, RepositorioMascota>();
             services.AddSingleton<IRepositorioVeterinario, RepositorioVeterinario>();
             services.AddSingleton<IRepositorioVisita, RepositorioVisita>();
             services.AddSingleton<HappyPet.App.Persistencia.AppRepositorios.AppContext>();

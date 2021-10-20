@@ -1,4 +1,6 @@
 using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace HappyPet.App.Dominio
 {
     public class Visita{
@@ -7,6 +9,7 @@ namespace HappyPet.App.Dominio
         public DateTime HoraDeVisita {get;set;}
         public Veterinario Veterinario {get;set;}
         public Mascota Mascota {get; set;}
+        
         public Visita(int id, DateTime fechaDeVisita, DateTime horaDeVisita, Veterinario veterinario, Mascota mascota)
         {
             Id = id;

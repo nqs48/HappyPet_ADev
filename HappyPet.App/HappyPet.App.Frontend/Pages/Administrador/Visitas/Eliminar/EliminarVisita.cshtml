@@ -1,0 +1,45 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Administrador.Visitas.Eliminar.EliminarVisitaModel
+@{
+}
+<style>
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }    
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+
+  .main-subtitle{
+        text-align: center;
+        background-color: aliceblue;
+        border-radius: 1rem;    
+  }
+
+</style>
+<h1 class="main-title">Formulario Eliminar Visita</h1>
+
+<h4 class="main-subtitle">La Visita ha sido eliminada</h4>
+
+<aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Visita"><i class="fas fa-boxes fa-lg"></i><br><strong>Menu Visitas</strong></a>
+        @* <a class="btn table-btn" asp-page="../Editar/EditarVisita"  asp-route-idVisita="@Model.Visita.Id"><i class="fas fa-address-book fa-lg"></i><br>Editar</a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarVisita"  asp-route-idVisita="@Model.Visita.Id"><i class="fas fa-address-book fa-lg"></i><br>Eliminar</a> *@
+</aside>

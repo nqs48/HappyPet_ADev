@@ -7,11 +7,17 @@ namespace HappyPet.App.Persistencia.AppRepositorios
     {
         IEnumerable<Visita> GetAllVisitas();
 
+
         //Crear Visita
         Visita AddVisita(Visita visita);
+        Visita AsignarMascota(Visita visita);
+        Visita AsignarVeterinario(Visita visita);
+
 
         //Actualizar Visita
         Visita UpdateVisita(Visita visitaActualizado);
+
+        
 
         //Eliminar Visita
         Visita DeleteVisita(int idVisita);

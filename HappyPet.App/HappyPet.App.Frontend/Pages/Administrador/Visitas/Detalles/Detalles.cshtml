@@ -1,0 +1,111 @@
+﻿@page
+@model HappyPet.App.Frontend.Pages.Administrador.Visitas.Detalles.DetallesModel
+@{
+}
+<style>
+    
+    .main-title{
+        text-align: center;
+        color: whitesmoke;
+        background-color: black;
+        border-radius: 15px;
+        padding: 20px;
+    }
+
+    .container-buttons{   
+        display: flex;
+        justify-content:space-evenly;
+        background-color: aliceblue !important;
+        padding: 2rem;
+    }
+
+    .container-buttons a:hover{
+        background-color: black !important;
+        color: gold;
+    }
+    .container-buttons a:active{
+        background-color: black !important;
+    }
+    
+    .main-section{
+        display: flex;
+        justify-content: center;
+    }
+
+    .container-information{
+        background-color: aliceblue;
+        padding: 1rem;
+        margin: 1rem;
+        text-align: center;
+        border-radius: 15px;
+
+    }
+</style>
+
+<main>
+    <h1 class="main-title">Detalle de Visitas</h1>
+
+    <section class="main-section">
+        <div class="container-information">
+            <strong>Visita</strong><br><br>
+            <table class="table">
+                <tr>
+                    <th>ID</th>
+                    <th>Fecha</th>
+                    @* <th>Hora</th> *@
+                    <th>Mascota</th>
+                    <th>Propietario</th>
+                    <th>Veterinario</th>
+                    <th>ID M.</th>
+                    <th>ID P.</th>
+                    <th>ID V.</th>
+
+                </tr>
+                <tr>
+                    <td>@Model.Visita.Id</td>
+                    <td>@Model.Visita.FechaDeVisita</td>
+                    @* <td>@item.HoraDeVisita</td> *@
+
+                    @if(Model.Visita.Mascota != null){
+                      <td>@Model.Visita.Mascota.Nombre</td>
+                    }else{
+                      <td>N/A</td>
+                    }
+                    @if(Model.Visita.Mascota != null){
+                      <td>@Model.Visita.Mascota.Cliente.Nombres @Model.Visita.Mascota.Cliente.Apellidos</td>   
+                    }else{
+                      <td>N/A</td>
+                    }
+                    @if(Model.Visita.Veterinario != null){
+                      <td>@Model.Visita.Veterinario.Nombres @Model.Visita.Veterinario.Apellidos</td>
+                    }else{
+                      <td>N/A</td>
+                    }
+                    @if(Model.Visita.Mascota != null){
+                      <td>&nbsp;&nbsp;@Model.Visita.Mascota.Id</td>
+                    }else{
+                      <td>N/A</td>
+                    }
+                    @if(Model.Visita.Mascota != null){
+                      <td>@Model.Visita.Mascota.Cliente.Id</td>  
+                    }else{
+                      <td>N/A</td>
+                    }
+                    @if(Model.Visita.Veterinario != null){
+                      <td>@Model.Visita.Veterinario.Id</td>
+                    }else{
+                      <td>N/A</td>
+                    }
+
+                </tr>
+            </table>
+        </div> 
+    </section>
+
+    <aside class="container-buttons">
+        <a class="btn table-btn" asp-page="../Visita"><i class="fas fa-undo fa-lg"></i><br><strong>Return</strong></a>
+        <a class="btn table-btn" asp-page="../Editar/EditarVisita"  asp-route-idVisita="@Model.Visita.Id"><i class="fas fa-address-book fa-lg"></i><br><b>Editar</b></a>
+        <a class="btn table-btn" asp-page="../Eliminar/EliminarVisita"  asp-route-idVisita="@Model.Visita.Id"><i class="fas fa-trash fa-lg"></i><br><b>Eliminar</b></a>
+    </aside>
+
+</main>
